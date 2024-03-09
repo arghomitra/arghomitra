@@ -35,7 +35,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="https://giphy.com/gifs/night-programming-programmer-xUA7bdpLxQhsSQdyog" alt="Coding gif" />
+ <img align="right" width="350" src="http://metinseven.com/" alt="Coding gif" />
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
