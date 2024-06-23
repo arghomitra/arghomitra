@@ -60,7 +60,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-6F02B5?style=for-the-badge&logo=machinelearning&logoColor=white)
-
 ![C# Web API](https://img.shields.io/badge/Web%20API-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
 <br/>
